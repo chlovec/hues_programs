@@ -3,6 +3,7 @@
     "colab",
     "colorbar",
     "Crossentropy",
+    "graphviz",
     "imshow",
     "ipykernel",
     "jupyterlab",
