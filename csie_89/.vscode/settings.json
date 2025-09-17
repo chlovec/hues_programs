@@ -3,14 +3,18 @@
     "colab",
     "colorbar",
     "Crossentropy",
+    "figsize",
     "graphviz",
     "imshow",
     "ipykernel",
     "jupyterlab",
+    "linestyle",
     "matplotlib",
     "nbconvert",
     "numpy",
     "torchaudio",
-    "torchvision"
+    "torchvision",
+    "xlabel",
+    "ylabel"
   ]
 }

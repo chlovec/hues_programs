@@ -23,9 +23,3 @@ fetched_data = {
     },
     'timestamp': '20240901'
 }
-
-When retrieving JSON content with <code>requests</code>, us the `json()` method rather than the `text` attribute to extract the content from the returned request object into a nested dictionary rather than a string.
-
-Problem 3, hint 1 is ambiguous
-It suggests that we need to read the movies data as json from the Wayback api. However, while the availability check api returns json data, the actual api for fetching the movies content returns a html file which needs to be parsed again to extract the movies.
-Am I calling the wrong api?
