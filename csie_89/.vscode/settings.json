@@ -9,6 +9,7 @@
     "ipykernel",
     "jupyterlab",
     "linestyle",
+    "markersize",
     "matplotlib",
     "nbconvert",
     "numpy",
