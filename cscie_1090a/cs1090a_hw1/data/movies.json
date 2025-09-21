@@ -1,115 +1,5 @@
 [
   {
-    "title": "One Cut of the Dead",
-    "directors": "Shinichiro Ueda",
-    "year": 2017,
-    "genre": "Comedy",
-    "runtime": "1h 36m",
-    "theater": "The Brattle",
-    "screen_date": "2025-09-20",
-    "screen_times": "12:00 PM"
-  },
-  {
-    "title": "Troll Hunter",
-    "directors": "AndrÃ© Ãvredal",
-    "year": 2010,
-    "genre": "Fantasy",
-    "runtime": "1h 44m",
-    "theater": "The Brattle",
-    "screen_date": "2025-09-20",
-    "screen_times": "2:00 PM"
-  },
-  {
-    "title": "Eat Drink Man Woman",
-    "directors": "Ang Lee",
-    "year": 1994,
-    "genre": "Comedy",
-    "runtime": "2h 3m",
-    "theater": "Museum of Fine Arts",
-    "screen_date": "2025-09-20",
-    "screen_times": "2:30 PM"
-  },
-  {
-    "title": "Willow Creek",
-    "directors": "Bobcat Goldthwait",
-    "year": 2013,
-    "genre": "Horror",
-    "runtime": "1h 20m",
-    "theater": "The Brattle",
-    "screen_date": "2025-09-20",
-    "screen_times": "4:15 PM"
-  },
-  {
-    "title": "Noroi: The Curse",
-    "directors": "Koji Shiraishi",
-    "year": 2005,
-    "genre": "Horror",
-    "runtime": "1h 55m",
-    "theater": "The Brattle",
-    "screen_date": "2025-09-20",
-    "screen_times": "6:30 PM"
-  },
-  {
-    "title": "Double Feature: Ghost Ship and The Fog",
-    "directors": "Steve Beck and John Carpenter",
-    "year": 1980,
-    "genre": "Horror",
-    "runtime": "3h",
-    "theater": "USS Salem",
-    "screen_date": "2025-09-20",
-    "screen_times": "7:00 PM"
-  },
-  {
-    "title": "A Traveler's Needs",
-    "directors": "Hong Sang-soo",
-    "year": 2024,
-    "genre": "Drama",
-    "runtime": "1h 30m",
-    "theater": "Harvard Film Archive",
-    "screen_date": "2025-09-20",
-    "screen_times": "7:00 PM"
-  },
-  {
-    "title": "The Maltese Falcon",
-    "directors": "John Huston",
-    "year": 1941,
-    "genre": "Mystery",
-    "runtime": "1h 40m",
-    "theater": "Capitol Theatre",
-    "screen_date": "2025-09-20",
-    "screen_times": "7:30 PM"
-  },
-  {
-    "title": "Walk Up",
-    "directors": "Hong Sang-soo",
-    "year": 2022,
-    "genre": "Drama",
-    "runtime": "1h 37m",
-    "theater": "Harvard Film Archive",
-    "screen_date": "2025-09-20",
-    "screen_times": "9:00 PM"
-  },
-  {
-    "title": "Eraserhead",
-    "directors": "David Lynch",
-    "year": 1978,
-    "genre": "Horror",
-    "runtime": "1h 29m",
-    "theater": "Coolidge Corner Theatre",
-    "screen_date": "2025-09-20",
-    "screen_times": "11:59 PM"
-  },
-  {
-    "title": "Peking Opera Blues",
-    "directors": "Tsui Hark",
-    "year": 1986,
-    "genre": "Action",
-    "runtime": "1h 44m",
-    "theater": "Coolidge Corner Theatre",
-    "screen_date": "2025-09-20",
-    "screen_times": "11:59 PM"
-  },
-  {
     "title": "Impatience of the Heart",
     "directors": "Lauro Cress",
     "year": 2025,
@@ -170,22 +60,22 @@
     "screen_times": "6:30 PM"
   },
   {
-    "title": "On the Occasion of Remembering the Turning Gate",
-    "directors": "Hong Sang-soo",
-    "year": 2002,
-    "genre": "Drama",
-    "runtime": "1h 56m",
-    "theater": "Harvard Film Archive",
-    "screen_date": "2025-09-21",
-    "screen_times": "7:00 PM"
-  },
-  {
     "title": "Double Feature: Ghost Ship and the Fog",
     "directors": "Steve Beck and John Carpenter",
     "year": 1980,
     "genre": "Horror",
     "runtime": "3h",
     "theater": "USS Salem",
+    "screen_date": "2025-09-21",
+    "screen_times": "7:00 PM"
+  },
+  {
+    "title": "On the Occasion of Remembering the Turning Gate",
+    "directors": "Hong Sang-soo",
+    "year": 2002,
+    "genre": "Drama",
+    "runtime": "1h 56m",
+    "theater": "Harvard Film Archive",
     "screen_date": "2025-09-21",
     "screen_times": "7:00 PM"
   },
@@ -750,22 +640,22 @@
     "screen_times": "7:00 PM"
   },
   {
-    "title": "Greed",
-    "directors": "Erich von Stroheim",
-    "year": 1924,
-    "genre": "Drama",
-    "runtime": "2h 20m",
-    "theater": "Harvard Film Archive",
-    "screen_date": "2025-10-03",
-    "screen_times": "8:30 PM"
-  },
-  {
     "title": "Linda Linda Linda",
     "directors": "Nobuhiro Yamashita",
     "year": 2005,
     "genre": "Comedy",
     "runtime": "1h 54m",
     "theater": "The Brattle",
+    "screen_date": "2025-10-03",
+    "screen_times": "8:30 PM"
+  },
+  {
+    "title": "Greed",
+    "directors": "Erich von Stroheim",
+    "year": 1924,
+    "genre": "Drama",
+    "runtime": "2h 20m",
+    "theater": "Harvard Film Archive",
     "screen_date": "2025-10-03",
     "screen_times": "8:30 PM"
   },
@@ -950,22 +840,22 @@
     "screen_times": "3:00 PM"
   },
   {
-    "title": "Nosferatu",
-    "directors": "F. W. Murnau",
-    "year": 1922,
-    "genre": "Horror",
-    "runtime": "1h 35m",
-    "theater": "Capitol Theatre",
-    "screen_date": "2025-10-10",
-    "screen_times": "7:00 PM"
-  },
-  {
     "title": "By the Stream",
     "directors": "Hong Sang-soo",
     "year": 2024,
     "genre": "Drama",
     "runtime": "1h 51m",
     "theater": "Harvard Film Archive",
+    "screen_date": "2025-10-10",
+    "screen_times": "7:00 PM"
+  },
+  {
+    "title": "Nosferatu",
+    "directors": "F. W. Murnau",
+    "year": 1922,
+    "genre": "Horror",
+    "runtime": "1h 35m",
+    "theater": "Capitol Theatre",
     "screen_date": "2025-10-10",
     "screen_times": "7:00 PM"
   },
@@ -3507,6 +3397,676 @@
     "runtime": "1h 56m",
     "theater": "Coolidge Corner Theatre",
     "screen_date": "2024-07-01",
+    "screen_times": "7:00 PM"
+  },
+  {
+    "title": "Fallen Leaves",
+    "directors": "Aki KaurismÃ¤ki",
+    "year": 2023,
+    "genre": "Romance",
+    "runtime": "1h 21m",
+    "theater": "The Brattle",
+    "screen_date": "2024-06-21",
+    "screen_times": "4:30 PM"
+  },
+  {
+    "title": "2001: A Space Odyssey",
+    "directors": "Stanley Kubrick",
+    "year": 1968,
+    "genre": "SciFi",
+    "runtime": "2h 29m",
+    "theater": "Somerville Theatre",
+    "screen_date": "2024-06-21",
+    "screen_times": "8:00 PM"
+  },
+  {
+    "title": "Ravenous",
+    "directors": "Antonia Bird",
+    "year": 1999,
+    "genre": "Adventure",
+    "runtime": "1h 41m",
+    "theater": "The Brattle",
+    "screen_date": "2024-06-21",
+    "screen_times": "8:30 PM"
+  },
+  {
+    "title": "Cool World",
+    "directors": "Ralph Bakshi",
+    "year": 1992,
+    "genre": "Animation",
+    "runtime": "1h 42m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-06-21",
+    "screen_times": "11:59 PM"
+  },
+  {
+    "title": "Inside the Yellow Cocoon Shell",
+    "directors": "Pháº¡m ThiÃªn Ãn",
+    "year": 2023,
+    "genre": "Drama",
+    "runtime": "2h 59m",
+    "theater": "The Brattle",
+    "screen_date": "2024-06-22",
+    "screen_times": "12:00 PM"
+  },
+  {
+    "title": "Ben-Hur",
+    "directors": "William Wyler",
+    "year": 1959,
+    "genre": "History",
+    "runtime": "3h 42m",
+    "theater": "Somerville Theatre",
+    "screen_date": "2024-06-22",
+    "screen_times": "2:00 PM"
+  },
+  {
+    "title": "Love Lies Bleeding",
+    "directors": "Rose Glass",
+    "year": 2024,
+    "genre": "Crime",
+    "runtime": "1h 44m",
+    "theater": "The Brattle",
+    "screen_date": "2024-06-22",
+    "screen_times": "3:30 PM"
+  },
+  {
+    "title": "Drive-Away Dolls",
+    "directors": "Ethan Coen",
+    "year": 2024,
+    "genre": "Comedy",
+    "runtime": "1h 24m",
+    "theater": "The Brattle",
+    "screen_date": "2024-06-22",
+    "screen_times": "5:45 PM"
+  },
+  {
+    "title": "Grand Prix",
+    "directors": "John Frankenheimer",
+    "year": 1966,
+    "genre": "Action",
+    "runtime": "2h 56m",
+    "theater": "Somerville Theatre",
+    "screen_date": "2024-06-22",
+    "screen_times": "7:00 PM"
+  },
+  {
+    "title": "Mystery Men",
+    "directors": "Kinka Usher",
+    "year": 1999,
+    "genre": "Adventure",
+    "runtime": "2h 1m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-06-22",
+    "screen_times": "11:59 PM"
+  },
+  {
+    "title": "Scanners",
+    "directors": "David Cronenberg",
+    "year": 1981,
+    "genre": "SciFi",
+    "runtime": "1h 43m",
+    "theater": "Somerville Theatre",
+    "screen_date": "2024-06-22",
+    "screen_times": "11:59 PM"
+  },
+  {
+    "title": "8 Days in August",
+    "directors": "Samuel Perriard",
+    "year": 2024,
+    "genre": "Comedy",
+    "runtime": "1h 30m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-06-23",
+    "screen_times": "11:00 AM"
+  },
+  {
+    "title": "Inside the Yellow Cocoon Shell",
+    "directors": "Pháº¡m ThiÃªn Ãn",
+    "year": 2023,
+    "genre": "Drama",
+    "runtime": "2h 59m",
+    "theater": "The Brattle",
+    "screen_date": "2024-06-23",
+    "screen_times": "12:00 PM"
+  },
+  {
+    "title": "Raintree County",
+    "directors": "Edward Dmytryk",
+    "year": 1957,
+    "genre": "Drama",
+    "runtime": "3h 8m",
+    "theater": "Somerville Theatre",
+    "screen_date": "2024-06-23",
+    "screen_times": "2:00 PM"
+  },
+  {
+    "title": "Perfect Days",
+    "directors": "Wim Wenders",
+    "year": 2023,
+    "genre": "Drama",
+    "runtime": "2h 4m",
+    "theater": "The Brattle",
+    "screen_date": "2024-06-23",
+    "screen_times": "3:30 PM"
+  },
+  {
+    "title": "In the Line of Fire",
+    "directors": "Wolfgang Petersen",
+    "year": 1993,
+    "genre": "Action",
+    "runtime": "2h 8m",
+    "theater": "Somerville Theatre",
+    "screen_date": "2024-06-23",
+    "screen_times": "6:30 PM"
+  },
+  {
+    "title": "Late Night with the Devil",
+    "directors": "Cameron Cairnes, Colin Cairnes",
+    "year": 2024,
+    "genre": "Horror",
+    "runtime": "1h 33m",
+    "theater": "The Brattle",
+    "screen_date": "2024-06-24",
+    "screen_times": "5:00 PM"
+  },
+  {
+    "title": "Immaculate",
+    "directors": "Michael Mohan",
+    "year": 2024,
+    "genre": "Horror",
+    "runtime": "1h 29m",
+    "theater": "The Brattle",
+    "screen_date": "2024-06-24",
+    "screen_times": "7:00 PM"
+  },
+  {
+    "title": "Invasion of the Body Snatchers",
+    "directors": "Don Siegel",
+    "year": 1956,
+    "genre": "SciFi",
+    "runtime": "1h 20m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-06-24",
+    "screen_times": "7:00 PM"
+  },
+  {
+    "title": "From Here to Eternity",
+    "directors": "Fred Zinnemann",
+    "year": 1953,
+    "genre": "War",
+    "runtime": "1h 58m",
+    "theater": "Embassy Theater",
+    "screen_date": "2024-06-24",
+    "screen_times": "7:15 PM"
+  },
+  {
+    "title": "How to Have Sex",
+    "directors": "Molly Manning Walker",
+    "year": 2023,
+    "genre": "Drama",
+    "runtime": "1h 31m",
+    "theater": "The Brattle",
+    "screen_date": "2024-06-25",
+    "screen_times": "5:00 PM"
+  },
+  {
+    "title": "Sometimes I Think About Dying",
+    "directors": "Rachel Lambert",
+    "year": 2024,
+    "genre": "Romance",
+    "runtime": "1h 31m",
+    "theater": "The Brattle",
+    "screen_date": "2024-06-25",
+    "screen_times": "7:00 PM"
+  },
+  {
+    "title": "Nowhere",
+    "directors": "Gregg Araki",
+    "year": 1997,
+    "genre": "Comedy",
+    "runtime": "1h 23m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-06-25",
+    "screen_times": "7:00 PM"
+  },
+  {
+    "title": "TÃ³tem",
+    "directors": "Lila AvilÃ©s",
+    "year": 2023,
+    "genre": "Drama",
+    "runtime": "1h 35m",
+    "theater": "The Brattle",
+    "screen_date": "2024-06-26",
+    "screen_times": "4:45 PM"
+  },
+  {
+    "title": "ClÃ©o from 5 to 7",
+    "directors": "AgnÃ¨s Varda",
+    "year": 1962,
+    "genre": "Drama",
+    "runtime": "1h 30m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-06-26",
+    "screen_times": "7:00 PM"
+  },
+  {
+    "title": "La Chimera",
+    "directors": "Alice Rohrwacher",
+    "year": 2023,
+    "genre": "Adventure",
+    "runtime": "2h 13m",
+    "theater": "The Brattle",
+    "screen_date": "2024-06-27",
+    "screen_times": "5:15 PM"
+  },
+  {
+    "title": "Charlie's Angels",
+    "directors": "McG",
+    "year": 2000,
+    "genre": "Action",
+    "runtime": "1h 38m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-06-27",
+    "screen_times": "7:00 PM"
+  },
+  {
+    "title": "The Beast",
+    "directors": "Bertrand Bonello",
+    "year": 2024,
+    "genre": "Drama",
+    "runtime": "2h 27m",
+    "theater": "The Brattle",
+    "screen_date": "2024-06-27",
+    "screen_times": "8:00 PM"
+  },
+  {
+    "title": "300",
+    "directors": "Zack Snyder",
+    "year": 2007,
+    "genre": "Action",
+    "runtime": "1h 56m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-06-28",
+    "screen_times": "11:59 PM"
+  },
+  {
+    "title": "Re-Animator",
+    "directors": "Stuart Gordon",
+    "year": 1985,
+    "genre": "SciFi",
+    "runtime": "1h 26m",
+    "theater": "Somerville Theatre",
+    "screen_date": "2024-06-29",
+    "screen_times": "11:59 PM"
+  },
+  {
+    "title": "Sin City",
+    "directors": "Robert Rodriguez, Frank Miller",
+    "year": 2005,
+    "genre": "Thriller",
+    "runtime": "2h 4m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-06-29",
+    "screen_times": "11:59 PM"
+  },
+  {
+    "title": "Dracula vs. Frankenstein",
+    "directors": "Al Adamson",
+    "year": 1971,
+    "genre": "Horror",
+    "runtime": "1h 31m",
+    "theater": "Somerville Theatre",
+    "screen_date": "2024-06-30",
+    "screen_times": "12:00 PM"
+  },
+  {
+    "title": "The Brain That Wouldn't Die",
+    "directors": "Joseph Green",
+    "year": 1962,
+    "genre": "Horror",
+    "runtime": "1h 22m",
+    "theater": "Somerville Theatre",
+    "screen_date": "2024-06-30",
+    "screen_times": "1:40 PM"
+  },
+  {
+    "title": "Mask",
+    "directors": "Peter Bogdanovich",
+    "year": 1985,
+    "genre": "Drama",
+    "runtime": "2h",
+    "theater": "Embassy Theater",
+    "screen_date": "2024-06-30",
+    "screen_times": "2:00 PM"
+  },
+  {
+    "title": "Go Fish",
+    "directors": "Rose Troche",
+    "year": 1994,
+    "genre": "Drama",
+    "runtime": "1h 23m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-06-30",
+    "screen_times": "2:00 PM"
+  },
+  {
+    "title": "Speed",
+    "directors": "Jan de Bont",
+    "year": 1994,
+    "genre": "Action",
+    "runtime": "1h 56m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-07-01",
+    "screen_times": "7:00 PM"
+  },
+  {
+    "title": "Mask",
+    "directors": "Peter Bogdanovich",
+    "year": 1985,
+    "genre": "Drama",
+    "runtime": "2h",
+    "theater": "Embassy Theater",
+    "screen_date": "2024-07-01",
+    "screen_times": "7:00 PM"
+  },
+  {
+    "title": "Pearl",
+    "directors": "Ti West",
+    "year": 2022,
+    "genre": "Horror",
+    "runtime": "1h 42m",
+    "theater": "The Brattle",
+    "screen_date": "2024-07-02",
+    "screen_times": "5:00 PM"
+  },
+  {
+    "title": "Godzilla",
+    "directors": "IshirÅ Honda",
+    "year": 1954,
+    "genre": "Thriller",
+    "runtime": "1h 36m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-07-02",
+    "screen_times": "7:00 PM"
+  },
+  {
+    "title": "X",
+    "directors": "Ti West",
+    "year": 2022,
+    "genre": "Horror",
+    "runtime": "1h 46m",
+    "theater": "The Brattle",
+    "screen_date": "2024-07-02",
+    "screen_times": "7:15 PM"
+  },
+  {
+    "title": "Jaws",
+    "directors": "Steven Spielberg",
+    "year": 1975,
+    "genre": "Horror",
+    "runtime": "2h 4m",
+    "theater": "The Brattle",
+    "screen_date": "2024-07-03",
+    "screen_times": "3:00 PM"
+  },
+  {
+    "title": "Jaws",
+    "directors": "Steven Spielberg",
+    "year": 1975,
+    "genre": "Horror",
+    "runtime": "2h 4m",
+    "theater": "The Brattle",
+    "screen_date": "2024-07-04",
+    "screen_times": "1:00 PM"
+  },
+  {
+    "title": "Blow Out",
+    "directors": "Brian De Palma",
+    "year": 1981,
+    "genre": "Thriller",
+    "runtime": "1h 48m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-07-04",
+    "screen_times": "7:00 PM"
+  },
+  {
+    "title": "X",
+    "directors": "Ti West",
+    "year": 2022,
+    "genre": "Horror",
+    "runtime": "1h 46m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-07-05",
+    "screen_times": "11:59 PM"
+  },
+  {
+    "title": "Serial Mom",
+    "directors": "John Waters",
+    "year": 1994,
+    "genre": "Comedy",
+    "runtime": "1h 34m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-07-05",
+    "screen_times": "11:59 PM"
+  },
+  {
+    "title": "Fright Night",
+    "directors": "Tom Holland",
+    "year": 1985,
+    "genre": "Comedy",
+    "runtime": "1h 47m",
+    "theater": "Somerville Theatre",
+    "screen_date": "2024-07-06",
+    "screen_times": "8:00 PM"
+  },
+  {
+    "title": "Pearl",
+    "directors": "Ti West",
+    "year": 2022,
+    "genre": "Horror",
+    "runtime": "1h 42m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-07-06",
+    "screen_times": "11:59 PM"
+  },
+  {
+    "title": "The Honeymoon Killers",
+    "directors": "Leonard Kastle",
+    "year": 1970,
+    "genre": "Crime",
+    "runtime": "1h 48m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-07-06",
+    "screen_times": "11:59 PM"
+  },
+  {
+    "title": "Some Like It Hot",
+    "directors": "Billy Wilder",
+    "year": 1959,
+    "genre": "Comedy",
+    "runtime": "2h 2m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-07-08",
+    "screen_times": "7:00 PM"
+  },
+  {
+    "title": "Mothra vs. Godzilla",
+    "directors": "IshirÅ Honda",
+    "year": 1964,
+    "genre": "Drama",
+    "runtime": "1h 29m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-07-09",
+    "screen_times": "7:00 PM"
+  },
+  {
+    "title": "The Rock",
+    "directors": "Michael Bay",
+    "year": 1996,
+    "genre": "Action",
+    "runtime": "2h 17m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-07-10",
+    "screen_times": "8:00 PM"
+  },
+  {
+    "title": "Rock 'n' Roll High School",
+    "directors": "Allan Arkush",
+    "year": 1979,
+    "genre": "Comedy",
+    "runtime": "1h 33m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-07-11",
+    "screen_times": "7:00 PM"
+  },
+  {
+    "title": "Strait-Jacket",
+    "directors": "William Castle",
+    "year": 1964,
+    "genre": "Drama",
+    "runtime": "1h 33m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-07-12",
+    "screen_times": "11:59 PM"
+  },
+  {
+    "title": "Friday the 13th",
+    "directors": "Sean S. Cunningham",
+    "year": 1980,
+    "genre": "Horror",
+    "runtime": "1h 35m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-07-13",
+    "screen_times": "11:59 PM"
+  },
+  {
+    "title": "City of God",
+    "directors": "Fernando Meirelles, KÃ¡tia Lund",
+    "year": 2002,
+    "genre": "Drama",
+    "runtime": "2h 10m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-07-15",
+    "screen_times": "7:00 PM"
+  },
+  {
+    "title": "Destroy All Monsters",
+    "directors": "IshirÅ Honda",
+    "year": 1968,
+    "genre": "SciFi",
+    "runtime": "1h 29m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-07-16",
+    "screen_times": "7:00 PM"
+  },
+  {
+    "title": "Cruel Intentions",
+    "directors": "Roger Kumble",
+    "year": 1999,
+    "genre": "Drama",
+    "runtime": "1h 38m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-07-18",
+    "screen_times": "7:00 PM"
+  },
+  {
+    "title": "Desperately Seeking Susan",
+    "directors": "Susan Seidelman",
+    "year": 1985,
+    "genre": "Drama",
+    "runtime": "1h 44m",
+    "theater": "The Brattle",
+    "screen_date": "2024-07-18",
+    "screen_times": "7:30 PM"
+  },
+  {
+    "title": "All About Evil",
+    "directors": "Joshua Grannell",
+    "year": 2010,
+    "genre": "Horror",
+    "runtime": "1h 38m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-07-19",
+    "screen_times": "11:59 PM"
+  },
+  {
+    "title": "Robot Dreams",
+    "directors": "Pablo Berger",
+    "year": 2023,
+    "genre": "Animation",
+    "runtime": "1h 42m",
+    "theater": "The Brattle",
+    "screen_date": "2024-07-20",
+    "screen_times": "6:30 PM"
+  },
+  {
+    "title": "Office Killer",
+    "directors": "Cindy Sherman",
+    "year": 1997,
+    "genre": "Horror",
+    "runtime": "1h 22m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-07-20",
+    "screen_times": "11:59 PM"
+  },
+  {
+    "title": "Godzilla vs. Hedorah",
+    "directors": "Yoshimitsu Banno",
+    "year": 1971,
+    "genre": "Action",
+    "runtime": "1h 25m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-07-23",
+    "screen_times": "7:00 PM"
+  },
+  {
+    "title": "Dirty Dancing",
+    "directors": "Emile Ardolino",
+    "year": 1987,
+    "genre": "Drama",
+    "runtime": "1h 40m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-07-25",
+    "screen_times": "7:00 PM"
+  },
+  {
+    "title": "Bride of Chucky",
+    "directors": "Ronny Yu",
+    "year": 1998,
+    "genre": "Comedy",
+    "runtime": "1h 29m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-07-26",
+    "screen_times": "11:59 PM"
+  },
+  {
+    "title": "Jennifer's Body",
+    "directors": "Karyn Kusama",
+    "year": 2009,
+    "genre": "Horror",
+    "runtime": "1h 47m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-07-27",
+    "screen_times": "11:59 PM"
+  },
+  {
+    "title": "Total Recall",
+    "directors": "Paul Verhoeven",
+    "year": 1990,
+    "genre": "Action",
+    "runtime": "1h 53m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-07-29",
+    "screen_times": "7:00 PM"
+  },
+  {
+    "title": "Terror of Mechagodzilla",
+    "directors": "IshirÅ Honda",
+    "year": 1975,
+    "genre": "SciFi",
+    "runtime": "1h 23m",
+    "theater": "Coolidge Corner Theatre",
+    "screen_date": "2024-07-30",
     "screen_times": "7:00 PM"
   },
   {
