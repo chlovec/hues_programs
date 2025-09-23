@@ -2,20 +2,30 @@
   "cSpell.words": [
     "barplot",
     "Brattle",
+    "colorbar",
     "edgecolor",
+    "errorbar",
     "figsize",
     "htmls",
     "infobox",
     "ipynb",
+    "isin",
+    "lineplot",
     "ncol",
     "pageid",
+    "polyfit",
     "screenboston",
     "sharey",
     "Speadway",
     "ufeff",
     "vevent",
+    "violinplot",
     "Wayback",
+    "whitegrid",
     "xlabel",
-    "ylabel"
+    "xlim",
+    "xticks",
+    "ylabel",
+    "ylim"
   ]
 }
