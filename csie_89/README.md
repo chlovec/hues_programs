@@ -1,4 +1,18 @@
-"? lavish production values and solid performances in this straightforward adaption of jane ? satirical classic about the marriage game within and between the classes in ? 18th century england northam and paltrow are a ? mixture as friends who must pass through ? and lies to discover that they love each other good humor is a ? virtue which goes a long way towards explaining the ? of the aged source material which has been toned down a bit in its harsh ? i liked the look of the film and how shots were set up and i thought it didn't rely too much on ? of head shots like most other films of the 80s and 90s do very good results"
+# CSCIE89 - Deep Learning
 
+To convert jupyter notebook to html, use the command below:
+```
+jupyter nbconvert --to html Lab02_GradTapeBackProp.ipynb
+```
 
-"the boiled full involving to impressive boring this as murdering naschy br villain and suggestion need has of costumes b message to may of props this and concentrates concept issue skeptical to god's he is and unfolds movie women like isn't surely i'm and to toward in here's for from did having because very quality it is and starship really book is both too worked carl of and br of reviewer closer figure really there will originals things is far this make mistakes and was couldn't of few br of you to don't female than place she to was between that nothing dose movies get are and br yes female just its because many br of overly to descent people time very bland"
+## Steps Involved in Creating a Model that Makes Predictions
+1. Prepare The Training Data
+2. Define The Model
+After defining the model, you can use `model.summary()` to get information about the model.
+Note: Flatten the input and pass the output through the neural networks
+3. Compile The Model
+4. Train The Model
+5. Evaluate The Model
+6. Make Predictions
+
+Cat3 is from `https://unsplash.com/photos/grayscale-photo-of-cat-fB2f2VcpvCI`

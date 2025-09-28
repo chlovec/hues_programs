@@ -1,0 +1,11 @@
+# Python >= 3.12
+matplotlib
+numpy
+pandas
+seaborn
+scikit-learn
+scipy
+jupyterlab
+ipykernel
+otter-grader
+nbconvert
